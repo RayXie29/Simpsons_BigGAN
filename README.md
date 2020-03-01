@@ -1,7 +1,8 @@
 # Simpsons GAN
 **NOT FINISH YET**
 <br />
-This repo is the implementation of BigGAN and the training target is Simpsons faces in kaggle public dataset. Although the implementation refered to BigGAN, but there are still some modifications in order to have a better fit on Simpsons dataset. And this is still an on going project, since the training process of GAN is a brittle work. But the current results seems already done with 50% of work, which means you can tell the generated images are a little bit Simpsons-ly. I will keep updaing the result/code until the generated images are good to go. <br />
+<br />
+This repo is the implementation of BigGAN and the training target is [Simpsons faces](https://www.kaggle.com/kostastokis/simpsons-faces) in kaggle public dataset. Although the implementation refered to BigGAN, but there are still some modifications in order to have a better fit on Simpsons dataset. And this is still an on going project, since the training process of GAN is a brittle work. But the current results seems already done with 50% of work, which means you can tell the generated images are a little bit Simpsons-ly. I will keep updaing the result/code until the generated images are good to go. <br />
 
 ## Model
 
